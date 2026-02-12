@@ -1,0 +1,5 @@
+{
+  "name": "PhyVisualizer AI",
+  "description": "An advanced physics simulation dashboard that uses AI to parse projectile motion problems and visualize trajectories in real-time.",
+  "requestFramePermissions": []
+}
