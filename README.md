@@ -16,96 +16,98 @@ View your app in AI Studio: https://ai.studio/apps/drive/1n-kg644PooZHHhYnfsWb_C
    `npm run dev`
 AI Physics Visualizer 🔬⚡
 
-An AI-powered educational platform that converts Physics word problems into interactive visual simulations, helping students understand abstract STEM concepts through real-time visualization and experimentation.
+   An AI-powered educational platform that converts Physics word problems into interactive visual simulations, helping students understand abstract STEM concepts      through real-time visualization and experimentation.
 
 📌 Problem Statement
 
-Students often struggle with physics word problems because they require mental visualization of motion, forces, and mathematical relationships. Traditional learning tools rely heavily on static text and equations.
+   Students often struggle with physics word problems because they require mental visualization of motion, forces, and mathematical relationships. Traditional         learning tools rely heavily on static text and equations.
 
-This project bridges the gap between textual physics problems and conceptual understanding using Artificial Intelligence and dynamic simulation.
+   This project bridges the gap between textual physics problems and conceptual understanding using Artificial Intelligence and dynamic simulation.
 
 🚀 Solution
 
-AI Physics Visualizer accepts natural language physics problems and automatically:
+   AI Physics Visualizer accepts natural language physics problems and automatically:
 
-Extracts physical parameters using AI
+      Extracts physical parameters using AI
 
-Converts them into structured simulation models
+      Converts them into structured simulation models
 
-Generates interactive motion visualization
+      Generates interactive motion visualization
 
-Allows real-time parameter manipulation
+      Allows real-time parameter manipulation
 
-Displays physics telemetry graphs
+      Displays physics telemetry graphs
 
 ✨ Key Features
 🤖 AI Problem Understanding
 
-Uses Gemini AI to extract physics variables
+   Uses Gemini AI to extract physics variables
 
-Converts unstructured text into simulation data
+   Converts unstructured text into simulation data
 
 🎯 Interactive Simulation
 
-Real-time projectile motion visualization
+   Real-time projectile motion visualization
 
-Accurate physics trajectory calculations
+   Accurate physics trajectory calculations
 
-Adjustable velocity, angle, gravity, and mass
+   Adjustable velocity, angle, gravity, and mass
 
 📊 Live Physics Telemetry
 
-Position vs Time graphs
+   Position vs Time graphs
 
-Velocity tracking
+   Velocity tracking
 
-Motion analytics dashboard
+   Motion analytics dashboard
 
 🎓 Educational Learning Interface
 
-Step-by-step physics understanding
+   Step-by-step physics understanding
 
-“What-if” scenario exploration
+   “What-if” scenario exploration
 
-Visual learning approach
+   Visual learning approach
 
 🧠 Example Input
-A ball is thrown upward at 20 m/s at an angle of 45 degrees.
-
+   A ball is thrown upward at 20 m/s at an angle of 45 degrees.
+   <p align="center">
+  <img src="https://github.com/srivish123/AI-Physics-Visualizer/blob/main/Screenshot%202026-02-12%20141835.png" width="700"/>
+</p>
 The system automatically generates:
 
-Motion animation
+   Motion animation
 
-Trajectory graph
+   Trajectory graph
 
-Adjustable simulation controls
+   Adjustable simulation controls
 
 🛠 Tech Stack
 
-Frontend:
+   Frontend:
 
-React
+      React
 
-TypeScript
+      TypeScript
 
-Vite
+      Vite
 
-AI Processing:
+   AI Processing:
 
-Google Gemini AI
+      Google Gemini AI
 
-Simulation:
+   Simulation:
 
-HTML Canvas Physics Engine
+      HTML Canvas Physics Engine
 
-Real-time Motion Calculations
+      Real-time Motion Calculations
 
-Deployment & Tools:
+   Deployment & Tools:
 
-Google AI Studio
+      Google AI Studio
 
-GitHub
+      GitHub
 
 🏗 Architecture Overview
 
-User Input → Gemini AI → Parameter Extraction → Physics Engine → Visualization Canvas → Interactive Controls
+   User Input → Gemini AI → Parameter Extraction → Physics Engine → Visualization Canvas → Interactive Controls
