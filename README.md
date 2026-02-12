@@ -13,7 +13,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1n-kg644PooZHHhYnfsWb_C
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
-   `npm run dev`
+   `npm run dev`<br>
 AI Physics Visualizer 🔬⚡
 
    An AI-powered educational platform that converts Physics word problems into interactive visual simulations, helping students understand abstract STEM concepts      through real-time visualization and experimentation.
